@@ -13,7 +13,7 @@ Ubuntu
 
 Automated installation via ```pip```
 -------------------------------------
-- Install pip: ```apt-get install python-pip```
+- Install pip: ```apt-get inкапапваstall python-pip```
 - Install webkit2png: ```pip install webkit2png```
 
 Manual installation via Git
